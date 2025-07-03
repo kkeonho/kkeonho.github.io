@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Complete listing of publications and preprints: <a href="{{site.author.googlescholar}}"> Google Scholar </a>.</div>
+  <div class="wordwrap">Complete listing of publications and preprints: <a href="{{site.author.googlescholar}}">Google Scholar</a></div>
 {% endif %}
 
 {% include base_path %}
