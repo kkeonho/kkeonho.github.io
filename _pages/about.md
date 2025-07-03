@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a Peter O'Donnell Jr. Postdoctoral Fellow at the Oden Institute for Computational Engineering, University of Texas at Austin. 
+I am a Peter O'Donnell Jr. Postdoctoral Fellow at the Oden Institute for Computational Engineering, University of Texas at Austin. I work on computational mathematics, mathematical modeling and computer simulations, fluid-structure interaction, multiscale physiological modeling especially in the cardiovascular system, and nonlocal modeling.
 
-I work on computational mathematics, mathematical modeling and computer simulations, fluid-structure interaction, and multiscale physiological modeling especially in the cardiovascular system. 
 
 
 <!-- A data-driven personal website
