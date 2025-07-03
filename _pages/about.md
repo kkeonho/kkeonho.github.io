@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Peter O'Donnell Jr. Postdoctoral Fellow at the Oden Institute for Computational Engineering, University of Texas at Austin. I work on computational mathematics, mathematical modeling and computer simulations, fluid-structure interaction, multiscale physiological modeling especially in the cardiovascular system, and nonlocal modeling.
+I am a [Peter O'Donnell Jr. Postdoctoral Fellow](https://oden.utexas.edu/programs-and-awards/odonnell-jr-postdoc-fellowship/) at the [Oden Institute for Computational Engineering, University of Texas at Austin](https://oden.utexas.edu/), where I am currently co-mentored by [Michael Sacks](https://wccms.oden.utexas.edu/) and [Ming-Chen Hsu](https://web.me.iastate.edu/jmchsu/). My research interests are computational mathematics, mathematical modeling and computer simulations, fluid-structure interaction, multiscale physiological modeling especially in the cardiovascular system, and nonlocal modeling. 
 
+I completed my Ph.D. in Mathematics at the University of North Carolina at Chapel Hill, where I was advised by [Boyce Griffith](https://griffith.web.unc.edu/). Before that I completed my M.S. in Mathematical Sciences and B.S. in Mathematical Sciences and Mechanical Engineering at Ulsan National Institute of Science and Technology.
+
+My current research focuses on developing a computational fluid-structure interaction model for human mitral valve and its repair, which can further aid patient-specific disease treatments. I particularly focused on immersogeometric analysis (IMGA) to simulate complex interaction between mitral valve and blood flow. For my Ph.D. research, I developed an extension of immersed boundary-type method called [immersed peridynamics method](https://www.sciencedirect.com/science/article/pii/S0021999123005612) to account for fluid-driven damage and failure. I am actively working on improving the initial version of IPD method for realistic biomaterials. Additionally, I am very interested in nonlocal modeling, which has a huge benefit of modeling complex phenomena that traditional local models struggle with.
 
 
 <!-- A data-driven personal website
