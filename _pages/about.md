@@ -11,8 +11,12 @@ I am a [Peter O'Donnell Jr. Postdoctoral Fellow](https://oden.utexas.edu/program
 
 I completed my Ph.D. in Mathematics at the University of North Carolina at Chapel Hill, where I was advised by [Boyce Griffith](https://griffith.web.unc.edu/). Before that I completed my M.S. in Mathematical Sciences and B.S. in Mathematical Sciences and Mechanical Engineering at Ulsan National Institute of Science and Technology.
 
-My current research focuses on developing a computational fluid-structure interaction model for the human mitral valve and its repair, which can further aid patient-specific disease treatments. I particularly utilize immersogeometric analysis (IMGA) to simulate complex interaction between the mitral valve and blood flow. For my Ph.D. research, I developed an extension of the immersed boundary-type method called the [immersed peridynamics method](https://www.sciencedirect.com/science/article/pii/S0021999123005612) to account for fluid-driven damage and failure. I am actively working on improving the initial version of the IPD method for realistic biomaterials. Additionally, I am very interested in nonlocal modeling, which has a huge benefit of modeling complex phenomena that traditional local models struggle with.
+My current research focuses on developing a computational fluid-structure interaction model for the human mitral valve and its repair, which can further aid patient-specific disease treatments. I particularly utilize immersogeometric analysis (IMGA) to simulate complex interaction between the mitral valve and blood flow. For my Ph.D. research, I developed an extension of the immersed boundary-type method called the [immersed peridynamics (IPD) method](https://www.sciencedirect.com/science/article/pii/S0021999123005612) to account for fluid-driven damage and failure. I am actively working on improving the initial version of the IPD method for realistic biomaterials. Additionally, I am very interested in nonlocal modeling, which has a huge benefit of modeling complex phenomena that traditional local models struggle with.
 
+# Current Research Funding
+  * [**American Heart Association Postdoctoral Fellowship 2025 -- 2027**] Multiscale modeling of hemodynamic responses in patient-specific mitral valve post transcatheter edge-to-edge repair
+
+ * [**Peter O'Donnell Jr. Postdoctoral Fellowship 2023 -- 2025**]
 
 <!-- A data-driven personal website
 ======
